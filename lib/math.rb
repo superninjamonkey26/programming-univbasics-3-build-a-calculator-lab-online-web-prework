@@ -20,7 +20,7 @@ end
 
 #modulo gives the remainder
 def modulo num1, num2
-  p num1.modulo () num2
+  p num1.modulo(num2)
 end
 
 def square_root(num)

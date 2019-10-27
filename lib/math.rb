@@ -1,4 +1,3 @@
-#addition adds 2 numbers together
 def addition num1, num2
   p num1 + num2
 end
@@ -23,6 +22,7 @@ def modulo num1, num2
   p num1.modulo(num2)
 end
 
+#suare root gives the square root of 2 numbers
 def square_root(num)
 
 end
